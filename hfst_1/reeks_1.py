@@ -12,7 +12,7 @@ def voeg_toe(x,y):
 
 def kwadraat(x):
     """ return het kwadraat van x """
-    return None
+    return x**2
 
 # print( kwadraat(3) )
 # print( kwadraat(8) )
