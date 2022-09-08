@@ -33,7 +33,7 @@ def seconden_per_dag(dagen):
         Indien de oproep zonder argument gebeurt, geef het aantal
         seconden in 1 dag terug. Gebruik een "default value".
     """
-    return None
+    return dagen*24*3600
 
 # print( seconden_per_dag(3) )
 # print( seconden_per_dag( ) )
