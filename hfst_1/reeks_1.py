@@ -1,7 +1,6 @@
 # Maak onderstaande functies af.
 # Testen kan MBV de oproepen onder iedere oefeningen.
-# Tip: gebruik CTRL + / om meerdere lijnen in/uit commentaar te zetten.
-
+# Tip: gebruik CTRL + / om meerdere lijnen in/uit commentaar te zetten. 
 
 def voeg_toe(x,y):
     """ return de som van x en y """
